@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  3 SEP 2011 13:10
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  3 SEP 2011 15:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -846,28 +846,28 @@ File: tikzlibrarybackgrounds.code.tex 2010/02/08 v2.10 (rcs-revision 1.2)
 ) (./RC471-WK1-essay.aux)
 \openout1 = `RC471-WK1-essay.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Try loading font information for OT1+pplj on input line 17.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Try loading font information for OT1+pplj on input line 19.
 
 
 (/usr/local/texlive/2011/texmf-dist/tex/latex/psnfss/ot1pplj.fd
 File: ot1pplj.fd 2004/09/06 font definitions for OT1/pplj.
 )
 \AtBeginShipoutBox=\box61
-Package hyperref Info: Link coloring OFF on input line 17.
+Package hyperref Info: Link coloring OFF on input line 19.
 
 (/usr/local/texlive/2011/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
@@ -877,9 +877,9 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count127
 )
-LaTeX Info: Redefining \ref on input line 17.
-LaTeX Info: Redefining \pageref on input line 17.
-LaTeX Info: Redefining \nameref on input line 17.
+LaTeX Info: Redefining \ref on input line 19.
+LaTeX Info: Redefining \pageref on input line 19.
+LaTeX Info: Redefining \nameref on input line 19.
 
 (./RC471-WK1-essay.out) (./RC471-WK1-essay.out)
 \@outlinefile=\write4
@@ -901,7 +901,7 @@ LaTeX Info: Redefining \nameref on input line 17.
 \everyMPtoPDFconversion=\toks38
 )
 \big@size=\dimen183
-LaTeX Info: Redefining \microtypecontext on input line 17.
+LaTeX Info: Redefining \microtypecontext on input line 19.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -922,8 +922,7 @@ Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
 Package: grfext 2010/08/19 v1.1 Managing graphics extensions (HO)
 )
 Package grfext Info: Graphics extension search list:
-(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
-G,.JBIG2,.JB2,.eps]
+(grfext)             [.pdf,.png,.jpg,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 452.
 
 (/usr/local/texlive/2011/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
@@ -934,31 +933,31 @@ e
 Package microtype Info: Character `013' is missing
 (microtype)             in font `OT1/pplj/m/sc/12'.
 (microtype)             Ignoring protrusion settings for this character.
-LaTeX Font Info:    Try loading font information for OT1+pplx on input line 27.
+LaTeX Font Info:    Try loading font information for OT1+pplx on input line 29.
 
 
 (/usr/local/texlive/2011/texmf-dist/tex/latex/psnfss/ot1pplx.fd
 File: ot1pplx.fd 2004/09/06 font definitions for OT1/pplx.
 )
-LaTeX Font Info:    Try loading font information for OML+zplm on input line 27.
+LaTeX Font Info:    Try loading font information for OML+zplm on input line 29.
 
 
 (/usr/local/texlive/2011/texmf-dist/tex/latex/psnfss/omlzplm.fd
 File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
 )
-LaTeX Font Info:    Try loading font information for OMS+zplm on input line 27.
+LaTeX Font Info:    Try loading font information for OMS+zplm on input line 29.
 
 
 (/usr/local/texlive/2011/texmf-dist/tex/latex/psnfss/omszplm.fd
 File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
 )
-LaTeX Font Info:    Try loading font information for OMX+zplm on input line 27.
+LaTeX Font Info:    Try loading font information for OMX+zplm on input line 29.
 
 
 (/usr/local/texlive/2011/texmf-dist/tex/latex/psnfss/omxzplm.fd
 File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
 )
-LaTeX Font Info:    Try loading font information for OT1+zplm on input line 27.
+LaTeX Font Info:    Try loading font information for OT1+zplm on input line 29.
 
 
 (/usr/local/texlive/2011/texmf-dist/tex/latex/psnfss/ot1zplm.fd
@@ -975,15 +974,32 @@ Missing character: There is no ” in font pplr9o!
 Missing character: There is no â in font pplr9o!
 Missing character: There is no € in font pplr9o!
 Missing character: There is no   in font pplr9o!
+Package epstopdf Info: Source file: <deadsea.eps>
+(epstopdf)                    date: 2011-09-03 14:17:23
+(epstopdf)                    size: 107785 bytes
+(epstopdf)             Output file: <deadsea-eps-converted-to.pdf>
+(epstopdf)                    date: 2011-09-03 14:17:36
+(epstopdf)                    size: 21574 bytes
+(epstopdf)             Command: <repstopdf --outfile=deadsea-eps-converted-to.p
+df deadsea.eps>
+(epstopdf)             \includegraphics on input line 58.
+Package epstopdf Info: Output file is already uptodate.
+
+<deadsea-eps-converted-to.pdf, id=41, 305.14pt x 103.38625pt>
+File: deadsea-eps-converted-to.pdf Graphic file (type pdf)
+
+<use deadsea-eps-converted-to.pdf>
+Package pdftex.def Info: deadsea-eps-converted-to.pdf used on input line 58.
+(pdftex.def)             Requested size: 305.13924pt x 103.38599pt.
  [2
 
-]
+ <./deadsea-eps-converted-to.pdf>]
 LaTeX Font Info:    Font shape `OT1/pplj/bx/n' in size <20.74> not available
-(Font)              Font shape `OT1/pplj/b/n' tried instead on input line 64.
+(Font)              Font shape `OT1/pplj/b/n' tried instead on input line 66.
 Package microtype Info: Character `013' is missing
 (microtype)             in font `OT1/pplj/m/sc/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
-Package tocbasic Info: character protrusion at toc deactivated on input line 69
+Package tocbasic Info: character protrusion at toc deactivated on input line 71
 .
 
 (./RC471-WK1-essay.toc)
@@ -991,36 +1007,36 @@ Package tocbasic Info: character protrusion at toc deactivated on input line 69
 \openout5 = `RC471-WK1-essay.toc'.
 
  (./RC471-WK1-essay.bbl)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 79.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 82.
  [3
 
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 79.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 82.
  (./RC471-WK1-essay.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 79.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 79.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 82.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 82.
 Package rerunfilecheck Info: File `RC471-WK1-essay.out' has not changed.
-(rerunfilecheck)             Checksum: 2415D850282594F49A1D2B4CA402FCAA;80.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 79.
+(rerunfilecheck)             Checksum: 8CFB96B0E60B0D62C6B82F1E47A3BB19;89.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 82.
  ) 
 Here is how much of TeX's memory you used:
- 20454 strings out of 493633
- 395952 string characters out of 3143378
- 625753 words of memory out of 3000000
- 23238 multiletter control sequences out of 15000+200000
- 36027 words of font info for 118 fonts, out of 3000000 for 9000
+ 20472 strings out of 493633
+ 396191 string characters out of 3143378
+ 625697 words of memory out of 3000000
+ 23242 multiletter control sequences out of 15000+200000
+ 36543 words of font info for 126 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
- 65i,8n,73p,424b,360s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 65i,8n,73p,551b,360s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/local/texlive/2011/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/te
 xlive/2011/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></usr/local/texlive/20
 11/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2011/texm
 f-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on RC471-WK1-essay.pdf (3 pages, 57647 bytes).
+Output written on RC471-WK1-essay.pdf (3 pages, 78301 bytes).
 PDF statistics:
- 71 PDF objects out of 1000 (max. 8388607)
- 45 compressed objects within 1 object stream
+ 75 PDF objects out of 1000 (max. 8388607)
+ 47 compressed objects within 1 object stream
  6 named destinations out of 1000 (max. 500000)
- 40061 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 40066 words of extra memory for PDF output out of 42996 (max. 10000000)
 
